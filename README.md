@@ -1,16 +1,25 @@
-# Variaveis-Compostas-em-Python
+# Funcionalidades do Projeto
 
+## Números por Extenso
 
-Este projeto em Python demonstra o uso de variáveis compostas através de três tipos principais: tuplas, listas e dicionários.
+O programa converte números de 0 a 10 em palavras por extenso utilizando uma tupla pré-definida. Solicita ao usuário que escolha um número e exibe sua forma por extenso.
 
-# Funcionalidades do Projeto:
+## Brasileirão 2014 - Tuplas e Listas
 
-Números por Extenso:
+Utiliza uma tupla para armazenar os times do Campeonato Brasileiro de 2014. Exibe informações sobre os times, como os cinco primeiros colocados, os últimos quatro colocados, uma lista em ordem alfabética dos times e a colocação específica do Cruzeiro e do Atlético Mineiro.
 
-O programa converte números de 0 a 10 em palavras por extenso utilizando uma tupla pré-definida.
-Solicita ao usuário que escolha um número e exibe sua forma por extenso.
+### Observação
 
-Brasileirão 2014 - Tuplas e Listas:
+O Sistema de Gerenciamento de Banco de Dados (SGBD) utilizado no projeto, e no qual a lista de comandos se baseia, é o MySQL Workbench.
 
-Utiliza uma tupla para armazenar os times do Campeonato Brasileiro de 2014.
-Exibe informações sobre os times, como os cinco primeiros colocados, os últimos quatro colocados, uma lista em ordem alfabética dos times e a colocação específica do Cruzeiro e do Atlético Mineiro.
+### Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests relacionados a este projeto.
+
+### Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+
+## Autores
+
+- [@Gustavo-gcr](https://github.com/Gustavo-gcr)
